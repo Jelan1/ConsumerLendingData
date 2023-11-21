@@ -1,6 +1,6 @@
 # ConsumerLendingData
 
-This Repository contains a single notebook which documents some intial explorations on the Harley-Davidson lease data
+This Repository contains a single notebook, 'Initial_Explorations.ipynb', which investigates the Harley-Davidson lease data
 
 Because there are no real dependancies, downloading and running the notebook should be a smoother experience. I tried to upload the associated data here as well, but GitHub does easily support large file uploads. 
 
